@@ -364,13 +364,17 @@ footer {
 
 @media (max-width: 767px) {
 
+body h1 {
+        padding: 30px;
+    }
 
- .destinations {
+.destinations {
         grid-template-columns: 1fr;
         padding: 70px;
         gap: 10px;
- }
+}
 
+    
 .destinations article {
     font-size: 17px;
 }
