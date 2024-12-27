@@ -362,19 +362,6 @@ footer {
     width: 100%;
 }
 
-@media (max-width: 1024px)
-body h1 {
-        font-size: 60px;
-        padding: 50px;
-}
-
-.destinations {
-        padding: 20px;
-        gap: 15px;
-        grid-template-column: 2fr;
-}
-
-
 
 
 @media (max-width: 767px) {
